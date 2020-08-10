@@ -1,0 +1,24 @@
+couple of examples - 
+
+Team and Technical Agility is the most important competency of all for an organization to thrive in the digital age, as the organization main depends on its Technical Teams ability to deliver reliable solutions that meet a customer's needs.
+
+SAFe has identified three dimentions to this competency:
+1) Agile Teams
+	High Performing - who has the authorityto manage theirr own work, which increases 
+	Cross-functional group of 5-11 individuals who can define, build test and deliver work in a specific time box. 
+
+	Use Effective Agile Principle and Practices : typically use a blend of agile methods, including scrum, XP, Kanban.
+
+	
+3) Teams of Agile Teams
+
+Agile teams and teams of Agile teams create and support the business solutions that deliver value to a customer.
+Now to deliver an Enterprise class solutions, requires more scope and breadth of skills than a single Agile Team.
+SAfe's Agile Release Train construct is a long-lived team -of teams,
+Now the skills required for arets are broader like R&D, legal, finance, licencing, product mangements, manufacturing, contracts.
+Though these members form their own teams and may not require full time, these members are part of the ART and participate in all ART events.
+
+2) Built-In Quality
+	
+Built-In Quality helps the lean goal of delivering value in the shortest sustainable lead time.
+All agile teams apply a set of well defined agile practices to create high-quality, well designed solutions, that support current and future business needs.
